@@ -1,0 +1,3 @@
+The sample transformation sheet allows a multi-Labelprint organized
+in 7 columns on a page. When lengths of strings are all [sufficiently] limited
+then the columns will be exact aequidistant.
